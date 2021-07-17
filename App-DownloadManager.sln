@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App-DownloadManager", "App-DownloadManager\App-DownloadManager.csproj", "{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F4B6F4-8633-4A51-8E7A-856B0E4A860B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E8EEE1-F8CA-489C-BC0E-C685788CA28B}
+	EndGlobalSection
+EndGlobal
